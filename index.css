@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.capa{
+    width: 200px;
+    border-radius: 50px;
+
+}
+
+.fundo-filmes{
+    background-color: whitesmoke;
+}
+
+.capa-livro{
+    width: 200px;
+    border-radius: 50px;
+}
+.fundo-livros{
+    background-color:whitesmoke;
+}
+.fundo-titulo{
+    background-color: yellow;
+}
+.fundo-titulo2{
+    background-color: yellow;
+}
+.fundo-cabecalho{
+    background-color: #383838
+   
+}
+#cinele{
+    color: yellow;
+}
+.texto-cabecalho{
+color: white;
+}
+.cor-texto-cabecalho{
+    color: white;
+}
