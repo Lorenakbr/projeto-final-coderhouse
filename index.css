@@ -1,6 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
+    
 }
 .capa{
     width: 200px;
@@ -34,6 +35,8 @@
 }
 .texto-cabecalho{
 color: white;
+display: flex;
+gap: 100px;
 }
 .cor-texto-cabecalho{
     color: white;
