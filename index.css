@@ -5,7 +5,7 @@
 }
 .capa{
     width: 200px;
-    border-radius: 50px;
+    border-radius: 15px;
 
 }
 
@@ -15,29 +15,49 @@
 
 .capa-livro{
     width: 200px;
-    border-radius: 50px;
+    border-radius: 15px;
 }
 .fundo-livros{
-    background-color:whitesmoke;
+    background-color:white;
 }
 .fundo-titulo{
-    background-color: yellow;
+    background-color: white;
 }
 .fundo-titulo2{
-    background-color: yellow;
+    background-color: white;
 }
 .fundo-cabecalho{
-    background-color: #383838
-   
+    background-color: #383838;
+    height: 200px;
+    margin: 0px;
+    border: dotted 5px rgb(231, 252, 1);
 }
 #cinele{
     color: yellow;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:90px;
+
 }
 .texto-cabecalho{
 color: white;
+padding: 15px;
 display: flex;
-gap: 100px;
+gap: 260px;
+
+
 }
 .cor-texto-cabecalho{
-    color: white;
+   
+    background-color: yellow;
+    padding: 0px;
+    height: 60px;
+    width: 100px;
+    color:palevioletred;
+    display: inline-block;
+    font-size: 20px;
+    cursor:pointer;
+    border-radius: 8px;
+    font-family:'Times New Roman', Times, serif;
+    
+    
 }
